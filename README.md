@@ -7,7 +7,7 @@ It uses YOlo11n-seg model for segmentation, ORB for keypoint matching, and trian
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vein-reconstruction.git
+   git clone https://github.com/manthasaigopal/vein-3d-reconstruction-pipeline.git
    cd vein-reconstruction
     ```
 2. Install dependencies:
